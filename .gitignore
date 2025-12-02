@@ -1,0 +1,6 @@
+# Python / Entornos virtuales
+venv_streamlit/
+__pycache__/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
